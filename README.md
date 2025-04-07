@@ -28,12 +28,6 @@ As perguntas são adaptadas para o universo dos animes, tornando a experiência 
 
 ---
 
-## 🖼️ Preview
-
-![Preview do projeto](./src/app/components/assets/imgs/logo.png)
-
----
-
 ## 🚀 Como rodar localmente
 
 ```bash
