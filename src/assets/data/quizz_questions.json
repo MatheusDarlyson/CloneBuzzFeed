@@ -1,0 +1,217 @@
+{
+    "title": "Qual personagem de anime você seria?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Você prefere lutar por...",
+        "options": [
+          { "id": 1, "name": "Aventura e diversão", "alias": "Luffy" },
+          { "id": 2, "name": "Honra e dever", "alias": "Vegeta" },
+          { "id": 3, "name": "Proteger quem ama", "alias": "Naruto" },
+          { "id": 4, "name": "Justiça", "alias": "Yuji" }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual desses estilos de luta você prefere?",
+        "options": [
+          { "id": 1, "name": "Artes marciais e Ki", "alias": "Goku" },
+          { "id": 2, "name": "Jutsus e chakra", "alias": "Kakashi" },
+          { "id": 3, "name": "Haki e frutas do diabo", "alias": "Zoro" },
+          { "id": 4, "name": "Energia amaldiçoada", "alias": "Gojo" }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Como você lida com adversários mais fortes?",
+        "options": [
+          { "id": 1, "name": "Luto até o fim!", "alias": "Goku" },
+          { "id": 2, "name": "Uso estratégia e inteligência", "alias": "Kakashi" },
+          { "id": 3, "name": "Dou um jeito com coragem", "alias": "Luffy" },
+          { "id": 4, "name": "Me afasto e espero o momento certo", "alias": "Sasuke" }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Se tivesse um rival, ele seria...",
+        "options": [
+          { "id": 1, "name": "Meu combustível para evoluir", "alias": "Vegeta" },
+          { "id": 2, "name": "Alguém que respeito", "alias": "Zoro" },
+          { "id": 3, "name": "Alguém que me irrita, mas admiro", "alias": "Naruto" },
+          { "id": 4, "name": "Alguém que preciso superar a qualquer custo", "alias": "Sasuke" }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual dessas palavras te define?",
+        "options": [
+          { "id": 1, "name": "Determinação", "alias": "Naruto" },
+          { "id": 2, "name": "Poder", "alias": "Gojo" },
+          { "id": 3, "name": "Sonhos", "alias": "Luffy" },
+          { "id": 4, "name": "Redenção", "alias": "Vegeta" }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Escolha uma arma ou poder:",
+        "options": [
+          { "id": 1, "name": "Katana", "alias": "Zoro" },
+          { "id": 2, "name": "Rasengan", "alias": "Naruto" },
+          { "id": 3, "name": "Kamehameha", "alias": "Goku" },
+          { "id": 4, "name": "Poder amaldiçoado ilimitado", "alias": "Gojo" }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Você é mais do tipo que...",
+        "options": [
+          { "id": 1, "name": "Vai na frente sem pensar", "alias": "Luffy" },
+          { "id": 2, "name": "Segue um plano", "alias": "Kakashi" },
+          { "id": 3, "name": "Protege os outros antes de tudo", "alias": "Yuji" },
+          { "id": 4, "name": "Treina até o limite", "alias": "Goku" }
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Quem você seria em uma equipe?",
+        "options": [
+          { "id": 1, "name": "O líder inspirador", "alias": "Naruto" },
+          { "id": 2, "name": "O estrategista silencioso", "alias": "Sasuke" },
+          { "id": 3, "name": "O que resolve tudo na pancada", "alias": "Goku" },
+          { "id": 4, "name": "O caótico engraçado", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Seu maior objetivo seria...",
+        "options": [
+          { "id": 1, "name": "Ser o mais forte", "alias": "Vegeta" },
+          { "id": 2, "name": "Alcançar a paz", "alias": "Naruto" },
+          { "id": 3, "name": "Liberdade", "alias": "Luffy" },
+          { "id": 4, "name": "Derrotar uma ameaça global", "alias": "Yuji" }
+        ]
+      },
+      {
+        "id": 10,
+        "question": "Qual desses personagens você gostaria de ter como mentor?",
+        "options": [
+          { "id": 1, "name": "Gojo Satoru", "alias": "Yuji" },
+          { "id": 2, "name": "Jiraiya", "alias": "Naruto" },
+          { "id": 3, "name": "Mestre Kame", "alias": "Goku" },
+          { "id": 4, "name": "Silvers Rayleigh", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 11,
+        "question": "Qual seu maior medo?",
+        "options": [
+          { "id": 1, "name": "Perder quem amo", "alias": "Naruto" },
+          { "id": 2, "name": "Ficar fraco", "alias": "Vegeta" },
+          { "id": 3, "name": "Ser controlado por outro", "alias": "Yuji" },
+          { "id": 4, "name": "Falhar com minha tripulação", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 12,
+        "question": "Você se considera...",
+        "options": [
+          { "id": 1, "name": "Impulsivo", "alias": "Naruto" },
+          { "id": 2, "name": "Calmo e centrado", "alias": "Gojo" },
+          { "id": 3, "name": "Divertido e espontâneo", "alias": "Luffy" },
+          { "id": 4, "name": "Reservado e calculista", "alias": "Sasuke" }
+        ]
+      },
+      {
+        "id": 13,
+        "question": "Quem seria seu melhor amigo?",
+        "options": [
+          { "id": 1, "name": "Kurama", "alias": "Naruto" },
+          { "id": 2, "name": "Killua", "alias": "Sasuke" },
+          { "id": 3, "name": "Krillin", "alias": "Goku" },
+          { "id": 4, "name": "Zoro", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 14,
+        "question": "Você se daria bem em um torneio de luta?",
+        "options": [
+          { "id": 1, "name": "Sim, eu adoro desafios!", "alias": "Goku" },
+          { "id": 2, "name": "Depende dos meus aliados", "alias": "Yuji" },
+          { "id": 3, "name": "Se tiver comida depois, com certeza", "alias": "Luffy" },
+          { "id": 4, "name": "Eu treinaria pra vencer", "alias": "Vegeta" }
+        ]
+      },
+      {
+        "id": 15,
+        "question": "Escolha um elemento:",
+        "options": [
+          { "id": 1, "name": "Fogo", "alias": "Sasuke" },
+          { "id": 2, "name": "Água", "alias": "Yuji" },
+          { "id": 3, "name": "Terra", "alias": "Zoro" },
+          { "id": 4, "name": "Ar", "alias": "Goku" }
+        ]
+      },
+      {
+        "id": 16,
+        "question": "Você aceitaria sacrificar algo por poder?",
+        "options": [
+          { "id": 1, "name": "Jamais", "alias": "Naruto" },
+          { "id": 2, "name": "Talvez... depende", "alias": "Yuji" },
+          { "id": 3, "name": "Sim, sem hesitar", "alias": "Sasuke" },
+          { "id": 4, "name": "Só se fosse pela minha tripulação", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 17,
+        "question": "Qual vilão mais te marcou?",
+        "options": [
+          { "id": 1, "name": "Freeza", "alias": "Goku" },
+          { "id": 2, "name": "Madara", "alias": "Naruto" },
+          { "id": 3, "name": "Mahito", "alias": "Yuji" },
+          { "id": 4, "name": "Kaido", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 18,
+        "question": "Como você reage ao fracasso?",
+        "options": [
+          { "id": 1, "name": "Treino mais", "alias": "Vegeta" },
+          { "id": 2, "name": "Aprendo com ele", "alias": "Naruto" },
+          { "id": 3, "name": "Dou risada e sigo", "alias": "Luffy" },
+          { "id": 4, "name": "Me isolo pra refletir", "alias": "Sasuke" }
+        ]
+      },
+      {
+        "id": 19,
+        "question": "Você é mais do tipo solitário ou social?",
+        "options": [
+          { "id": 1, "name": "Solitário", "alias": "Sasuke" },
+          { "id": 2, "name": "Social", "alias": "Naruto" },
+          { "id": 3, "name": "Só preciso da minha equipe", "alias": "Zoro" },
+          { "id": 4, "name": "Amo fazer amigos", "alias": "Luffy" }
+        ]
+      },
+      {
+        "id": 20,
+        "question": "Se você fosse lembrado por algo, seria por...",
+        "options": [
+          { "id": 1, "name": "Minha força", "alias": "Goku" },
+          { "id": 2, "name": "Minha persistência", "alias": "Naruto" },
+          { "id": 3, "name": "Minha coragem", "alias": "Yuji" },
+          { "id": 4, "name": "Minha lealdade", "alias": "Zoro" }
+        ]
+      }
+    ],
+    "results": {
+      "Goku": "Você é como Goku: ama lutar, busca se superar e tem um coração puro!",
+      "Vegeta": "Você é como Vegeta: orgulhoso, poderoso e com forte desejo de evoluir.",
+      "Naruto": "Você é como Naruto: determinado, empático e movido pelos laços com os outros.",
+      "Sasuke": "Você é como Sasuke: reservado, poderoso e com sede de verdade.",
+      "Kakashi": "Você é como Kakashi: estrategista, inteligente e confiável.",
+      "Yuji": "Você é como Yuji: justo, humano e sempre em busca de fazer o bem.",
+      "Gojo": "Você é como Gojo: poderoso, confiante e protetor daqueles que ama.",
+      "Luffy": "Você é como Luffy: livre, engraçado e com espírito aventureiro.",
+      "Zoro": "Você é como Zoro: leal, focado e fiel à sua palavra."
+    }
+  }
+  
