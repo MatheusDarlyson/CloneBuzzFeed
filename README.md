@@ -1,59 +1,71 @@
-# ProjetoBuzzfeed
+# 🧠 Clone do BuzzFeed - Anime Edition  
+[![Status](https://img.shields.io/badge/status-concluído-brightgreen)]()
+[![Angular](https://img.shields.io/badge/built%20with-Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Projeto desenvolvido durante o Bootcamp da **DIO + Avanade**, com o objetivo de replicar um quiz estilo BuzzFeed usando **Angular**.
 
-## Development server
+---
 
-To start a local development server, run:
+## 📌 Sobre o projeto
+
+Neste quiz interativo, o usuário responde 20 perguntas e descobre qual personagem de anime ele seria! O resultado pode trazer personagens de animes famosos como:
+
+- 🌀 **Naruto**
+- 🔥 **Dragon Ball Z**
+- ☠️ **One Piece**
+- 👊 **Jujutsu Kaisen**
+
+As perguntas são adaptadas para o universo dos animes, tornando a experiência divertida e imersiva.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- [Angular](https://angular.io/)
+- HTML + CSS
+- TypeScript
+
+---
+
+## 🖼️ Preview
+
+![Preview do projeto](./src/app/components/assets/imgs/logo.png)
+
+---
+
+## 🚀 Como rodar localmente
 
 ```bash
+# 1. Clone o repositório
+git clone https://github.com/MatheusDarlyson/CloneBuzzFeed.git
+
+# 2. Acesse o diretório
+cd CloneBuzzFeed
+
+# 3. Instale as dependências
+npm install
+
+# 4. Rode o projeto
 ng serve
+Acesse no navegador:
+👉 http://localhost:4200
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+📁 Estrutura do projeto
+src/
+├── app/
+│   └── components/
+│       └── quiz/
+│           ├── quiz.component.ts
+│           ├── quiz.component.html
+│           └── quiz.component.css
+├── assets/
+│   └── imgs/
+│       └── logo.png
+└── styles.css
 
-## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+🙌 Contribuições
+Sinta-se à vontade para abrir issues, forkar o projeto ou criar pull requests com melhorias!
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
